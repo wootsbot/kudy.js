@@ -1,8 +1,12 @@
-# KudyJS
+<div align="center"><h1>KudyJS</h1></div>
+<div align="center">KudyJS is a simple library to generate inspirational phrases.</div>
 
-`KudyJS` is a simple library to generate inspirational phrases.
-
-> currently only supports phrases in Spanish but works to support more languages.
+<div align="center">
+  <!-- Version -->
+  <a href="https://www.npmjs.com/package/kudyjs">
+    <img src="https://img.shields.io/npm/v/kudyjs?style=flat-square" alt="Version" />
+  </a>
+</div>
 
 Where each action returns a random object selected from a list:
 
@@ -14,6 +18,8 @@ Where each action returns a random object selected from a list:
   source: ""
 }
 ```
+
+> currently only supports phrases in Spanish but works to support more languages.
 
 ## How
 
