@@ -1,4 +1,6 @@
-# A simple library to generate inspirational phrases.
+# KudyJS
+
+A simple library to generate inspirational phrases.
 
 Where each action returns a random object selected from a list:
 
