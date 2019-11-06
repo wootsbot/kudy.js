@@ -66,7 +66,7 @@ Kudy.configure({
   // the list of phrases to use. kudy provides its own if you don't have one!
   phrases: [],
 
-  // The length of the random number. kudy for default use the result of phrases. length!
+  // The length of the random number. kudy for default use the result of phrases.length!
   numberRandom: 4
 });
 
