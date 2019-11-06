@@ -6,10 +6,23 @@
   <a href="https://www.npmjs.com/package/kudyjs">
     <img src="https://img.shields.io/npm/v/kudyjs?style=flat-square" alt="Version" />
   </a>
+ 
+  <!-- Licence -->
+  <a href="https://www.npmjs.com/package/kudyjs">
+    <img src="https://img.shields.io/github/license/wootsbot/kudy?style=flat-square" alt="Licence" />
+  </a>
 
   <!-- Size -->
   <a href="https://github.com/wootsbot/kudy">
     <img src="https://img.shields.io/github/repo-size/wootsbot/kudy?style=flat-square" alt="Size" />
+  </a>
+  
+  <a href="https://bundlephobia.com/result?p=kudyjs">
+    <img src="https://img.shields.io/bundlephobia/minzip/kudyjs?color=%2365A1F8&style=flat-square" alt="Size" />
+  </a>
+  
+  <a href="https://bundlephobia.com/result?p=kudyjs">
+    <img src="https://img.shields.io/bundlephobia/min/kudyjs?color=%2365C3F8&style=flat-square" alt="Size" />
   </a>
 </div>
 
