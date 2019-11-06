@@ -1,0 +1,16 @@
+{
+  "name": "kudy",
+  "version": "0.0.1",
+  "description": "",
+  "main": "index.js",
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/wootsbot/kudy.git"
+  },
+  "author": "Jorge Luis Calleja Alvarado",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/wootsbot/kudy/issues"
+  },
+  "homepage": "https://github.com/wootsbot/kudy#readme"
+}
