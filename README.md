@@ -1,6 +1,8 @@
 # KudyJS
 
-A simple library to generate inspirational phrases.
+`KudyJS` is a simple library to generate inspirational phrases.
+
+> currently only supports phrases in Spanish but works to support more languages.
 
 Where each action returns a random object selected from a list:
 
