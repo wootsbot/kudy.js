@@ -6,6 +6,11 @@
   <a href="https://www.npmjs.com/package/kudyjs">
     <img src="https://img.shields.io/npm/v/kudyjs?style=flat-square" alt="Version" />
   </a>
+
+  <!-- Size -->
+  <a href="https://github.com/wootsbot/kudy">
+    <img src="https://img.shields.io/github/repo-size/wootsbot/kudy?style=flat-square" alt="Size" />
+  </a>
 </div>
 
 Where each action returns a random object selected from a list:
