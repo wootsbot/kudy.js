@@ -1,5 +1,5 @@
-<div align="center"><h1>KudyJS</h1></div>
-<div align="center">KudyJS is a simple library to generate inspirational phrases.</div>
+<div align="center"><h1>Kudy.js</h1></div>
+<div align="center">Kudy.js is a simple library to generate inspirational phrases.</div>
 
 <div align="center">
   <!-- Version -->
@@ -49,6 +49,9 @@ yarn add kudyjs
 
 // with npm
 npm install --save kudyjs
+
+// or
+npm add kudyjs
 ```
 
 ## General Usage

@@ -5,12 +5,12 @@
   "main": "index.js",
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/wootsbot/kudy.git"
+    "url": "git+https://github.com/wootsbot/kudy.js.git"
   },
   "author": "Jorge Luis Calleja Alvarado",
   "license": "MIT",
   "bugs": {
-    "url": "https://github.com/wootsbot/kudy/issues"
+    "url": "https://github.com/wootsbot/kudy.js/issues"
   },
-  "homepage": "https://github.com/wootsbot/kudy#readme"
+  "homepage": "https://github.com/wootsbot/kudy.js#readme"
 }
