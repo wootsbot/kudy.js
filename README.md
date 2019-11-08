@@ -8,12 +8,12 @@
   </a>
  
   <!-- Licence -->
-  <a href="https://www.npmjs.com/package/kudyjs">
+  <a href="https://github.com/wootsbot/kudy.js/blob/master/LICENSE">
     <img src="https://img.shields.io/github/license/wootsbot/kudy?style=flat-square" alt="Licence" />
   </a>
 
   <!-- Size -->
-  <a href="https://github.com/wootsbot/kudy">
+  <a href="https://github.com/wootsbot/kudy.js">
     <img src="https://img.shields.io/github/repo-size/wootsbot/kudy?style=flat-square" alt="Size" />
   </a>
   
