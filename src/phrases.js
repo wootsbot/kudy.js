@@ -1,6 +1,110 @@
 const phrases = [
   {
     phrase:
+      "Debes hacer cosas que realmente sean importantes, pero también debes divertirte, porque si no, no tendrás éxito.",
+    author: "Larry Page",
+    tags: ["tecnología"],
+    source: ""
+  },
+  {
+    phrase:
+      "Tratas a la gente con respeto y ellos tienden a devolver el favor a la empresa.",
+    author: "Larry Page",
+    tags: ["tecnología"],
+    source: ""
+  },
+  {
+    phrase: "Creo que es más fácil avanzar en sueños mega-ambiciosos.",
+    author: "Larry Page",
+    tags: ["tecnología"],
+    source: ""
+  },
+  {
+    phrase:
+      "Muchas compañías no tienen éxito con el paso del tiempo. ¿Qué es fundamentalmente lo que hacen mal? A menudo se olvidan del futuro. Yo intento concentrarme en la siguiente cuestión: ¿Cuál es el futuro que realmente me espera?.",
+    author: "Larry Page",
+    tags: ["tecnología"],
+    source: ""
+  },
+  {
+    phrase:
+      "A veces da la impresión de que el mundo está desmoronándose ahí fuera, pero en realidad es un buen momento para volverse un poco loco, dejarse llevar por la curiosidad y ser ambicioso respecto a tus proyectos.",
+    author: "Larry Page",
+    tags: ["tecnología"],
+    source: ""
+  },
+  {
+    phrase:
+      "Siente un desprecio sano por lo imposible y dedícate a construir nuevas soluciones.",
+    author: "Larry Page",
+    tags: ["tecnología"],
+    source: ""
+  },
+  {
+    phrase:
+      "Probablemente vas por el camino correcto cuando te sientes como un agujero en la pared durante una tormenta.",
+    author: "Larry Page",
+    tags: ["tecnología"],
+    source: ""
+  },
+  {
+    phrase:
+      "¿Cuál es el consejo definitivo sobre cómo cambiar el mundo? Trabajar duro en algo incómodamente emocionante.",
+    author: "Larry Page",
+    tags: ["tecnología"],
+    source: ""
+  },
+  {
+    phrase:
+      "No tenemos tantos gerentes como deberíamos, pero es mejor tener pocos que muchos.",
+    author: "Larry Page",
+    tags: ["tecnología"],
+    source: ""
+  },
+  {
+    phrase:
+      "Mi experiencia es que cuando la gente intenta hacer cosas ambiciosas se preocupan de fracasar cuando comienzan. Pero todas las cosas interesantes que se logran son las que consiguen un gran valor agregado",
+    author: "Larry Page",
+    tags: ["tecnología"],
+    source: ""
+  },
+  {
+    phrase:
+      "Casi no fundo Google porque estaba preocupado por el riesgo y por dejar mi programa de Doctorado",
+    author: "Larry Page",
+    tags: ["tecnología"],
+    source: ""
+  },
+  {
+    phrase:
+      "Si estuviésemos motivados por el dinero, hubiésemos vendido Google y estaríamos en la playa.",
+    author: "Larry Page",
+    tags: ["tecnología"],
+    source: ""
+  },
+  {
+    phrase:
+      "En Google intentamos promover la innovación y la asunción de riesgos, y por eso animamos a nuestros ingenieros a que desarrollen proyectos personales durante el 20% de su jornada laboral.",
+    author: "Larry Page",
+    tags: ["tecnología"],
+    source: ""
+  },
+  {
+    phrase:
+      "Si estás cambiando el mundo estás trabajando en cosas importantes.",
+    author: "Larry Page",
+    tags: ["tecnología"],
+    source: ""
+  },
+  {
+    phrase:
+      "Sé que parece que el mundo se está desmoronando, pero en realidad es una gran época para volvernos un poco locos, seguir nuestra curiosidad y ser ambiciosos. No abandonéis vuestros sueños. !El mundo os necesita!.",
+    author: "Larry Page",
+    tags: ["tecnología"],
+    source: ""
+  },
+  {
+    phrase:
       "Donde hay una empresa de éxito alguien tomó alguna vez una decisión valiente.",
     author: "Peter Ferdinand Druker",
     tags: ["negocio", "tecnología"],
