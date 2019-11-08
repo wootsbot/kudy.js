@@ -159,6 +159,20 @@ const phrases = [
   },
   {
     phrase:
+      "Las grandes cosas en los negocios nunca son realizadas por una persona. Son hechas por un equipo de personas.",
+    author: "Steve Jobs",
+    tags: ["negocio", "tecnología"],
+    source: ""
+  },
+  {
+    phrase:
+      "Estoy totalmente convencido que la perseverancia es lo que separa a los emprendedores exitosos de los que que no triunfan.",
+    author: "Steve Jobs",
+    tags: ["negocio", "tecnología"],
+    source: ""
+  },
+  {
+    phrase:
       "Tu reputación es más importante que tu nómina, y tu integridad es más valiosa que tu carrera.",
     author: "Ryan Freitas",
     tags: ["negocio", "tecnología"],
@@ -188,6 +202,13 @@ const phrases = [
   {
     phrase:
       "El verdadero progreso es el que pone la tecnología al alcance de todos.",
+    author: "Henry Ford",
+    tags: ["negocio", "tecnología"],
+    source: ""
+  },
+  {
+    phrase:
+      "No creo que un hombre pueda dejar su negocio. Debería pensar en él durante el día y soñar con él durante la noche.",
     author: "Henry Ford",
     tags: ["negocio", "tecnología"],
     source: ""
@@ -224,6 +245,46 @@ const phrases = [
       "Las grandes oportunidades nacen de haber sabido aprovechar las pequeñas.",
     author: "Bill Gates",
     tags: ["negocio", "tecnología"],
+    source: ""
+  },
+  {
+    phrase: "Tus clientes más infelices son tu mayor fuente de aprendizaje.",
+    author: "Bill Gates",
+    tags: ["negocio", "tecnología"],
+    source: ""
+  },
+  {
+    phrase:
+      "En el mundo de los negocios, todo se paga en dos monedas: dinero y experiencia. Toma la experiencia; el dinero vendrá más tarde.",
+    author: "Harold Geneen",
+    tags: ["negocio"],
+    source: ""
+  },
+  {
+    phrase: "El propósito de un negocio es crear y mantener un cliente.",
+    author: "Peter F. Drucker",
+    tags: ["negocio"],
+    source: ""
+  },
+  {
+    phrase:
+      "La felicidad es el ingrediente secreto para un negocio exitoso. Si tienes una empresa feliz, será invencible.",
+    author: "Richard Branson",
+    tags: ["negocio"],
+    source: ""
+  },
+  {
+    phrase:
+      "Capacita a la gente lo suficientemente bien para que se puedan ir, trátalos lo suficientemente bien para que no quieran.",
+    author: "Richard Branson",
+    tags: ["negocio"],
+    source: ""
+  },
+  {
+    phrase:
+      "Si le agradas a las personas, te escucharán, pero si confían en ti, harán negocios contigo.",
+    author: "Zig Ziglar",
+    tags: ["negocio"],
     source: ""
   }
 ];
